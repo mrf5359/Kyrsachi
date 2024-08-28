@@ -1,0 +1,10 @@
+C:\Users\mrfun\source\repos\c#\kyrsach2\kyrsach2\bin\Debug\kyrsach2.exe.config
+C:\Users\mrfun\source\repos\c#\kyrsach2\kyrsach2\bin\Debug\kyrsach2.exe
+C:\Users\mrfun\source\repos\c#\kyrsach2\kyrsach2\bin\Debug\kyrsach2.pdb
+C:\Users\mrfun\source\repos\c#\kyrsach2\kyrsach2\obj\Debug\kyrsach2.csproj.AssemblyReference.cache
+C:\Users\mrfun\source\repos\c#\kyrsach2\kyrsach2\obj\Debug\kyrsach2.Form1.resources
+C:\Users\mrfun\source\repos\c#\kyrsach2\kyrsach2\obj\Debug\kyrsach2.Properties.Resources.resources
+C:\Users\mrfun\source\repos\c#\kyrsach2\kyrsach2\obj\Debug\kyrsach2.csproj.GenerateResource.cache
+C:\Users\mrfun\source\repos\c#\kyrsach2\kyrsach2\obj\Debug\kyrsach2.csproj.CoreCompileInputs.cache
+C:\Users\mrfun\source\repos\c#\kyrsach2\kyrsach2\obj\Debug\kyrsach2.exe
+C:\Users\mrfun\source\repos\c#\kyrsach2\kyrsach2\obj\Debug\kyrsach2.pdb

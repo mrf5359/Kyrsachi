@@ -1,0 +1,10 @@
+C:\Users\mrfun\source\repos\c#\Kursach3_1\Kursach3_1\bin\Debug\Kursach3_1.exe.config
+C:\Users\mrfun\source\repos\c#\Kursach3_1\Kursach3_1\bin\Debug\Kursach3_1.exe
+C:\Users\mrfun\source\repos\c#\Kursach3_1\Kursach3_1\bin\Debug\Kursach3_1.pdb
+C:\Users\mrfun\source\repos\c#\Kursach3_1\Kursach3_1\obj\Debug\Kursach3_1.csproj.AssemblyReference.cache
+C:\Users\mrfun\source\repos\c#\Kursach3_1\Kursach3_1\obj\Debug\Kursach3_1.Form1.resources
+C:\Users\mrfun\source\repos\c#\Kursach3_1\Kursach3_1\obj\Debug\Kursach3_1.Properties.Resources.resources
+C:\Users\mrfun\source\repos\c#\Kursach3_1\Kursach3_1\obj\Debug\Kursach3_1.csproj.GenerateResource.cache
+C:\Users\mrfun\source\repos\c#\Kursach3_1\Kursach3_1\obj\Debug\Kursach3_1.csproj.CoreCompileInputs.cache
+C:\Users\mrfun\source\repos\c#\Kursach3_1\Kursach3_1\obj\Debug\Kursach3_1.exe
+C:\Users\mrfun\source\repos\c#\Kursach3_1\Kursach3_1\obj\Debug\Kursach3_1.pdb
